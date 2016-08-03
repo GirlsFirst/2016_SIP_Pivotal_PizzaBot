@@ -41,7 +41,7 @@ Because the Pizza Bot is not linked to a pizzeria yet, there are no APIs in the 
 
 ## Contributors
 
-In order to modify this bot, you must make your own Heroku app linked to a Facebook page. To get started, check out this tutorial: http://x-team.com/2016/04/how-to-get-started-with-facebook-messenger-bots/. After you have successfully created a bot, you may take the Pizza Bot's code and copy it into your index.js file.
+This Pizza Bot was made by Sasha Kipnis, Sandra Nissim, Maryam Ahmed, and Katie Chen. In order to modify this bot, you must make your own Heroku app linked to a Facebook page. To get started, check out this tutorial: http://x-team.com/2016/04/how-to-get-started-with-facebook-messenger-bots/. After you have successfully created a bot, you may take the Pizza Bot's code and copy it into your index.js file.
  X-Team
 How To Get Started With Facebook Messenger Bots | X-Team
 This tutorial will show you how to setup and deploy simple Facebook Messenger Bot, using the Messenger Send/Receive API. (113KB)
